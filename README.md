@@ -1,2 +1,1 @@
-# fcc_practice
-practice
+# Backend Challenges boilerplate - package.json
